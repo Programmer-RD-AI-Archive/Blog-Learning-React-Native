@@ -46,7 +46,7 @@
 
 # Process
 
-- [ ]  Design in whimsical
+- [x]  Design in whimsical
 - [ ]  Design in Figma
 - [ ]  FrontEnd
 - [ ]  BackEnd
