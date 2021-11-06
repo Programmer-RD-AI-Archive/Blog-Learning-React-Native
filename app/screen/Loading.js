@@ -15,7 +15,8 @@ function Loading({ img_url, text_main, company_name, made_by }) {
         />
         <Text style={styles.mainText}>{"Like Reading Stories ? \nUse"}</Text>
         <Text style={styles.nameText}>{"blog \n stories"}</Text>
-        <Text></Text>
+      
+        
         <Text style={styles.made_by}>{"Made By Ranuga Disansa"}</Text>
       </View>
     </>
